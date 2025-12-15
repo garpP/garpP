@@ -50,13 +50,15 @@ Atuei como **programador líder**, participando de decisões técnicas e arquite
 
 <!-- Stats principais -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=garpP&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garpP&layout=compact&langs_count=6&theme=dark&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=garpP&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=180" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=garpP&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=180" />
 </p>
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garpP&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garpP&theme=dark&hide_border=true&cache_seconds=180" />
 </p>
 
 <!-- Métricas detalhadas -->
@@ -64,10 +66,6 @@ Atuei como **programador líder**, participando de decisões técnicas e arquite
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garpP&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garpP&theme=github_dark" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garpP&theme=github_dark" />
-</p>
 
 
 ---
@@ -89,9 +87,8 @@ Pesquisa acadêmica apresentada pelo **Jornal Fantástico**, com foco no impacto
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garpP&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garpP&theme=react-dark&hide_border=true&area=true&cache_seconds=180" />
 </p>
-
 
 ---
 
