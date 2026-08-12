@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=200&lines=Software+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Game+Developer+%7C+Unity+%26+C%23+%F0%9F%8E%AE;Cyber+Security+Enthusiast+%7C+DevSecOps+%F0%9F%9B%A1%EF%B8%8F;Clean+Code+%7C+Scalable+Architecture+%E2%9C%A8" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=200&lines=Software+Engineer+%26+Full+Stack+Developer+%F0%9F%9A%80;Cyber+Security+Enthusiast+%7C+DevSecOps+%F0%9F%9B%A1%EF%B8%8F;Clean+Code+%7C+Scalable+Architecture+%E2%9C%A8;Game+Developer" />  
 </p>
 
 </div>
